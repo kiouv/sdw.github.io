@@ -1,6 +1,6 @@
 # Design Workflow with Sketch
 
-Original content from Sketchapp newsletter
+Original content from [Clark Wimberly at InVision](https://www.invisionapp.com/ecourses/design-workflow-with-sketch)
 
 [Chapter 1 of 10 - Design Workflow with Sketch](https://github.com/kiouv/sdw.github.io/blob/master/Chapter%201%20of%2010%20-%20Design%20Workflow%20with%20Sketch.md)
 
